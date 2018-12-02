@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">BossRush</string>
     <string name="action_settings">Settings</string>
+    <string name="boss_title">Boss</string>
+    <string name="rush_title">Rush</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="title_activity_character_creation">CharacterCreationActivity</string>
 </resources>
