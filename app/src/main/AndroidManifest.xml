@@ -22,7 +22,12 @@
         <activity
             android:name=".CharacterCreationActivity"
             android:label="@string/title_activity_character_creation"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".BossRoomActivity"
+            android:label="@string/title_activity_boss_room"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".SpashActivity"></activity>
     </application>
 
 </manifest>

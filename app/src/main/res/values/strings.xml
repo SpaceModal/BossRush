@@ -7,4 +7,6 @@
     <string name="password">Password</string>
     <string name="username">Username</string>
     <string name="title_activity_character_creation">CharacterCreationActivity</string>
+    <string name="done">Done</string>
+    <string name="title_activity_boss_room">BossRoomActivity</string>
 </resources>
